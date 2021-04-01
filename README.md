@@ -1,4 +1,5 @@
 # pw-fundamentos-react
-Aula01 - Fundamentos01
+
+Sequencia de Aulas sobre fundamentos do React JS
 
 Autor: Mateus
